@@ -16,9 +16,8 @@ body {
   justify-content: center;
   align-items: center;
   opacity: 1;
+  opacity 1s ease 2s;
 }
-
-/* copieer de volgende text in #intro-section dan werkt de code weer: transition: opacity 1s ease 2s;*/
 
 .intro-text {
   color: #ffffff;
